@@ -1,0 +1,11 @@
+.git
+**/__pycache__/
+
+user_dir/
+venv/
+backend/venv/
+backend/user_dir
+backend/user_mapping.json
+backend/schema/
+
+frontend/node_modules
